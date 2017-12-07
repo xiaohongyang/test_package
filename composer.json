@@ -1,0 +1,16 @@
+{
+    "name": "jackxhy/carpackage",
+    "description": "test",
+    "type": "composer-plugin",
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "license": "1.0.1",
+    "authors": [
+        {
+            "name": "xiaohongyang",
+            "email": "258082291@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
